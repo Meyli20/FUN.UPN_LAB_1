@@ -11,6 +11,7 @@ namespace Fun_lab1
         static void Main(string[] args)
         {
             Console.WriteLine("¡Hola! Mi proyecto está desarrollado en C#.");
+            Console.WriteLine("Mi primera rama funcionalidad");
         }
     }
 }
